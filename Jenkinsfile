@@ -6,3 +6,4 @@ node {
         sh '''javac Test.java
               java Test'''
     }
+}
